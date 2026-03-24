@@ -1,86 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage -->
   <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <!-- Core AI Pages -->
+  <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-itinerary-generator.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-blog-prompts.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/ai-youtube-travel-video-prompts.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Existing Content Pages -->
   <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-prompts-for-instagram.html</loc>
-    <priority>0.9</priority>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/50-ai-travel-prompts-for-bloggers.html</loc>
-    <priority>0.9</priority>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/cinematic-ai-travel-photos-guide.html</loc>
-    <priority>0.9</priority>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/realistic-ai-travel-photography-tips.html</loc>
-    <priority>0.9</priority>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
-
- <url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/cinematic-ai-travel-photo-prompts-for-instagram.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-<url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-prompt-formula-generator.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-<url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/how-to-write-ai-travel-prompts.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-<url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/best-ai-image-generators-for-travel-photos.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-
-<url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-video-prompts-instagram-reels.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-<url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-blog-prompts.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-<url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/ai-youtube-travel-video-prompts.html</loc>
-    <priority>0.9</priority>
-  </url>
-
-<url>
-    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-itinerary-generator.html</loc>
-    <priority>0.9</priority>
-  </url>
-
 
   <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/cinematic-ai-travel-photo-prompts-for-instagram.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-prompt-formula-generator.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/how-to-write-ai-travel-prompts.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/best-ai-image-generators-for-travel-photos.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://idyllic-starship-b50f65.netlify.app/ai-travel-video-prompts-instagram-reels.html</loc>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/about.html</loc>
-    <priority>0.6</priority>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 
   <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/privacy-policy.html</loc>
-    <priority>0.5</priority>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
   </url>
 
   <url>
     <loc>https://idyllic-starship-b50f65.netlify.app/terms.html</loc>
-    <priority>0.5</priority>
+    <lastmod>2026-03-24</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
   </url>
 
 </urlset>
